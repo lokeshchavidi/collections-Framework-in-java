@@ -42,5 +42,6 @@ public class ListMethods {
         System.out.println("First index of Ravi: " + list1.indexOf("murali"));
         //lastindexof
         System.out.println("last index of method"+list1.lastIndexOf("Lokesh"));
+        System.out.println(list1.size());
 	}
 }
