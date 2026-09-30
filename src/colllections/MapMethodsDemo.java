@@ -8,6 +8,7 @@ public class MapMethodsDemo {
 
         // Creating Map
         Map<Integer, String> employees = new HashMap<>();
+        
 
         // 1. put()
         employees.put(101, "Ravi");
